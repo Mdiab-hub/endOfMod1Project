@@ -16,3 +16,5 @@ Simple two player rock, paper, scissors game.
 * function that will create multiple round~~ still trying to figure that out
 * display that will indicate rounds
 * display that will indicate winner
+* create function that resets score to zero each round
+* create round function and then let functions go through it--which functions; the win, lose, draw functions
