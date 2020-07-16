@@ -49,9 +49,13 @@ function getComputerChoice(){
     
 
 
-// function game(userChoice){ //this checks user input agains computers math.random
-//     const computerChoice = getComputerChoice()//recursive function
-    
+ function game(userChoice){ // ok so does this takes in ; so what if we didn't put anything here what would happen//this checks user input agains computers math.random
+     const computerChoice = getComputerChoice()//recursive function//which is the r, p, s's//grabs the randome generator of these functions
+     //console.log(computerChoice)
+     //console.log(userChoice)
+ }
+//game()
+
 //     switch(userChoice + computerChoice){
 //         case "rs":
 //         case "pr":
